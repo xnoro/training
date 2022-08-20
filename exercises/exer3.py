@@ -1,3 +1,61 @@
-year=input("Let's get your age! Type te year that your born: ")
-now=input('Good, now type the year we are in: ')
-print('Ya, good news! You are ', int(now)-int(year), 'years old!!!')
+n1=input("Let's go with a basic addition? Type one number: ")
+n2=input('Type another one to add: ')
+print('The result is', str(int(n1)+int(n2)) + '!!!')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,3 +1,3 @@
-mult=input('Going into basic multiplication!!! Type one number: ')
-times=input('Ok, now type the times that will be multiplied: ')
-print('Noice, the result is', str(int(mult) * int(times))+'!!!')
+num=input('Yo, type one numer to be subtracted: ')
+sub=input('Good, type another one to subtract the first: ')
+print('The result is finished, see:', str(int(num)-int(sub))+'!')

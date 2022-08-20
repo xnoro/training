@@ -1,3 +1,3 @@
-number=input("Let's go with division now, insert one number: ")
-divisor=input('Good, type the divisor: ')
-print('Perfect, the result is equal to', str(int(number)/int(divisor))+'!!!')
+mult=input('Going into basic multiplication!!! Type one number: ')
+times=input('Ok, now type the times that will be multiplied: ')
+print('Noice, the result is', str(int(mult) * int(times))+'!!!')
