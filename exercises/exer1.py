@@ -1,2 +1,2 @@
-nome=input('Qual seu nome?: ')
-print('Olá,', nome + '!!!')
+name1=input("What's your name?: ")
+print('Hi,', name1 + '!!!')

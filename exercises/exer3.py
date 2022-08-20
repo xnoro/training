@@ -1,3 +1,3 @@
-ano=input('Vamos ver qual sua idade! Digíte o ano em que nasceu: ')
-atual=input('Ótimo, agora digite em que ano estamos!!!: ')
-print('Pronto, já temos o resultado! Você tem', int(atual)-int(ano), 'anos!!!')
+year=input("Let's get your age! Type te year that your born: ")
+now=input('Good, now type the year we are in: ')
+print('Ya, good news! You are ', int(now)-int(year), 'years old!!!')
